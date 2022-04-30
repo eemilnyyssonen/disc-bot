@@ -6,5 +6,5 @@ Get alerts when hotdrops appear in innovastore.fi. Alert user on tg.
  - Website scraper class abstraction in scrape.py
 
 ## Todo:
- - Implement scraper with scrapy framework for less dry code and efficiency
+ - Implement scraper with scrapy framework for readability code and efficiency
  - Add features, and final functionalities
